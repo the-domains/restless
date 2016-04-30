@@ -1,0 +1,28 @@
+name: Restless
+favicon: null
+layout_spectrum: 0.9072782476432621
+typography_spectrum: 0.16073847585357726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3212011728901416
+  lightness: 0.23532269150018692
+  saturation: 0.926810699282214
+  rhythmicContrast: 0.33343776129186153
+purpose: []
