@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Restless Productions]]></title>
         <description><![CDATA[Restless Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://restlessproductions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 04:02:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 04:13:12 GMT</lastBuildDate>
+        <atom:link href="http://restlessproductions.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Restless Productions]]></title>
+            <description><![CDATA[<p>Restless Productions</p>]]></description>
+            <link>http://restlessproductions.com/restless-productions/index.html</link>
+            <guid isPermaLink="false">3ff6e8cb-9ed2-4e6b-b5c2-ed241d7dbe29</guid>
+            <pubDate>Sun, 01 May 2016 04:13:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://restlessproductions.com/restless/Welcome_files/shapeimage_1.png">]]></description>
