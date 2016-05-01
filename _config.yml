@@ -1,6 +1,6 @@
 name: Restless Productions
 favicon: null
-layout_spectrum: 0.28299
+layout_spectrum: 1
 typography_spectrum: 0.16822
 title: Restless Productions
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3212011728901416
   lightness: 0.625
   saturation: 0.3125
-  rhythmicContrast: 0.33343776129186153
+  rhythmicContrast: 0.5
 purpose: []
