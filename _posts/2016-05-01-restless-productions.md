@@ -1,14 +1,17 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: Restless Productions
-datePublished: '2016-05-01T04:13:03.654Z'
-dateModified: '2016-05-01T04:12:51.998Z'
+description: 'Founded in 2011 by choreographer Claire French and composer James Maxwell, Restless is a performance company dedicated to aestheticizing interdisciplinary collaboration. Our work has the collaborative process at its core, focusing on the new and unforeseen element that arises when disciplines meet; drawing on all, and exclusive to none. When a dancer is presented as a classical musician’s “page-turner,” the traditional hierarchy of music and dance is stood on its head; responsibility for the flow of musical time is denied the musician and given over to the interpretive instincts of the dancer. Maneuvers like this arise from a highly personal conception of the idea of “implication:” identifying a convention in one discipline that is considered essential to a tradition, and repurposing that convention by assigning its function to one or more other disciplines. Through the play of repurposed conventions, the audience of a Restless production is invited to experience an intermingling of purposes, as the tried-and-true meets the newly-invented, in a collaborative exploration of the space between traditions.'
+datePublished: '2016-05-01T04:20:21.039Z'
+dateModified: '2016-05-01T04:16:59.305Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-restless-productions.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +19,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-restless-productions.md
-published: true
-url: restless-productions/index.html
-_type: Article
+_type: Blurb
 
 ---
-**Restless Productions**
-
 Founded in 2011 by choreographer Claire French and composer James Maxwell, **Restless** is a performance company dedicated to aestheticizing interdisciplinary collaboration. Our work has the collaborative process at its core, focusing on the new and unforeseen element that arises when disciplines meet; drawing on all, and exclusive to none. When a dancer is presented as a classical musician's "page-turner," the traditional hierarchy of music and dance is stood on its head; responsibility for the flow of musical time is denied the musician and given over to the interpretive instincts of the dancer. Maneuvers like this arise from a highly personal conception of the idea of "implication:" identifying a convention in one discipline that is considered essential to a tradition, and repurposing that convention by assigning its function to one or more other disciplines. Through the play of repurposed conventions, the audience of a **Restless** production is invited to experience an intermingling of purposes, as the tried-and-true meets the newly-invented, in a collaborative exploration of the space between traditions.
 
 **Company Work**
@@ -50,11 +48,11 @@ October 2012: Premiere, Global Dance Connections, The Dance Centre, Vancouver, B
 
 _Little Crimes_ (In Development)
 
-Two one-act chamber operas  sleepyhead & Little Apples, after Chekhov  
+Two one-act chamber operas sleepyhead & Little Apples, after Chekhov
 
 Workshops - December 2012
 
-Generously supported by British Columbia Arts Council, Canada Council for the Arts and The Shadbolt Centre for the Arts' Artist Residency Program. Currently negotiating premiere dates.  
+Generously supported by British Columbia Arts Council, Canada Council for the Arts and The Shadbolt Centre for the Arts' Artist Residency Program. Currently negotiating premiere dates.
 
 _The Willful Child_
 
